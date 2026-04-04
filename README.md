@@ -32,19 +32,22 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40"/>
 </p>
+
+- Python  
+- MySQL  
+- Tableau  
+- Data Structures
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandkumar-a&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anandkumar-a&show_icons=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandkumar-a&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandkumar-a&layout=compact" />
 </p>
 
 ---
