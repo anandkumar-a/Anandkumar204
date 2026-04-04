@@ -13,7 +13,6 @@
 - 🤖 Working as a **GenAI Intern** (Prompt Engineering & LLMs)
 - 📊 Skilled in **Data Analytics, Machine Learning & AI**
 - 🌱 Exploring **Generative AI, Automation & Scalable AI Systems**
-- 💡 Built **AgriMind AI 🌾** – Crop Intelligence Platform using ML
 
 ---
 
@@ -29,26 +28,10 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40"/>
-</p>
-
 - Python  
 - MySQL  
 - Tableau  
 - Data Structures
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandkumar-a&show_icons=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandkumar-a&layout=compact" />
-</p>
 
 ---
 
