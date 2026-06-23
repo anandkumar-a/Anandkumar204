@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Anand Kumar A
+# 👋 Hi, I'm ANAND KUMAR A
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Anand%20Kumar%20A&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20•%20Generative%20AI%20•%20LLM%20Evaluation&descAlignY=68"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=ANAND%20KUMAR%20A&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20•%20Generative%20AI%20•%20LLM%20Evaluation&descAlignY=68"/>
 </p>
 
 <p align="center">
@@ -54,20 +54,59 @@ class AnandKumar:
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql)
+<div align="center">
 
-### AI & ML
-Python • Scikit-Learn • TensorFlow • Keras • RAG • LLM • Prompt Engineering
+## 💻 Programming Languages
 
-### Analytics
-Power BI • Tableau • Pandas • NumPy • Matplotlib
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,bash" />
+</p>
 
-### Tools
-Git • GitHub • VS Code • Jupyter • SQLite
+---
+
+## 🤖 AI • Machine Learning • Generative AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-E10098?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Evaluation-14B8A6?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 Data Analytics
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
+---
+## ☁️ Cloud • Database • Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite,jupyter,anaconda" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+</p>
+
+</div>
 
 ---
 
