@@ -124,23 +124,6 @@ Agentic AI
 
 ---
 
-# 📈 GitHub Stats
-
-Replace `anandkumar-a` below.
-
-```md
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight
-```
-
-```md
-https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight
-```
-
-```md
-https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night
-```
-
----
 
 # 🏆 Certifications
 
